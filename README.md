@@ -1,10 +1,2 @@
-# Just Practice
-
-## Hello
-- Balabala
-- Wawoo
-
-## World
-- [ ] first
-- [x] second
-- [ ] third
+# For fun.
+略略略
